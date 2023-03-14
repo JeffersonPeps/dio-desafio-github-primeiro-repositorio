@@ -1,0 +1,11 @@
+git bash here -> Terminal de emulação para a linha de comando.
+
+ls -> Listar arquivos da pasta
+cd -> entrar em uma pasta
+cd .. -> sair da pasta
+git add -> Comando de adicionar o controle de versão
+git commit -m "Comentário do Commit, muito importante (Comentários Coerentes)"->  
+git status -> verificar o status dos arquivos
+git clone + url copiado -> Comando para fazer um clone do repositorio do github
+git push origin main -> Comando de enviar todos os commits para a nuvem
+
